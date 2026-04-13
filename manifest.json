@@ -1,0 +1,22 @@
+{
+  "name": "ULLIM",
+  "short_name": "ULLIM",
+  "description": "개인 뉴스 스크랩북",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f0e8",
+  "theme_color": "#f5f0e8",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' fill='%23f5f0e8'/%3E%3Ctext x='96' y='138' font-size='90' text-anchor='middle' fill='%231c1608' font-family='Georgia,serif' font-weight='bold'%3EU%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%23f5f0e8'/%3E%3Ctext x='256' y='360' font-size='240' text-anchor='middle' fill='%231c1608' font-family='Georgia,serif' font-weight='bold'%3EU%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
